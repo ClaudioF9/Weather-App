@@ -1,3 +1,8 @@
+/* *, *:before, *:after {
+    box-sizing: border-box;
+  }
+
+
 h1{
     text-align: center;
     background-color: blue;
@@ -5,6 +10,21 @@ h1{
     padding: 1.0rem;
     margin: none;
     max-width: 100%;
-
-
 }
+
+.card{
+    border: black solid 1px;
+}
+
+aside{
+    width: 256px;
+    text-shadow: left;
+}
+
+#today{
+    width: 500px;
+}
+
+.pb-3{
+    width: 500px;
+} */
