@@ -12,13 +12,45 @@ h1{
     max-width: 100%;
 } 
 
-#today{
-    border: black solid 1px;
+#search-input{
+    width: 100%;
 }
 
-#search-button{
-    border: black solid 1px;
+.input-group{
+    width: 72.625px;
+}
+
+#today{
+    padding: 10px;
+    
+    width: 1000px;
+}
+
+.btn{
+    padding: 10px; 
+    border: solid black 1px; 
     background-color: grey;
+    margin-top: 10px;
+    width: 325px;
+    color: black;
+}
+
+#forecast{
+    width: 1000px;
+}
+
+/* .list-group{
+    width: 288px;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+} */
+
+#search-button{
+    background-color: grey;
+    margin-top:10px;
+    width: 325px;
+    margin-bottom: 16px
     
 }
 
