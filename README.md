@@ -37,7 +37,8 @@ N/A
 https://claudiof9.github.io/Weather-App/
 
 ## Screenshot
-Incoming
+![Weather-App-Screenshot](https://user-images.githubusercontent.com/119876939/217652457-dceb5023-1671-4e21-a854-df24223ede7b.png)
+
 
 ## Credits
 
